@@ -1,7 +1,7 @@
 {
-  "name": "book-seacher",
+  "name": "book-searcher",
   "version": "0.1.0",
-  "homepage": "https://parfum505.github.io/reactJS/book-seacher",
+  "homepage": "https://parfum505.github.io/bookSearcherReact",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
