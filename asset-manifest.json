@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bookSearcherReact/static/css/main.72abcb38.chunk.css",
+    "main.js": "/bookSearcherReact/static/js/main.b2cad7b6.chunk.js",
+    "main.js.map": "/bookSearcherReact/static/js/main.b2cad7b6.chunk.js.map",
+    "runtime-main.js": "/bookSearcherReact/static/js/runtime-main.69595aaa.js",
+    "runtime-main.js.map": "/bookSearcherReact/static/js/runtime-main.69595aaa.js.map",
+    "static/css/2.de424728.chunk.css": "/bookSearcherReact/static/css/2.de424728.chunk.css",
+    "static/js/2.586c7a91.chunk.js": "/bookSearcherReact/static/js/2.586c7a91.chunk.js",
+    "static/js/2.586c7a91.chunk.js.map": "/bookSearcherReact/static/js/2.586c7a91.chunk.js.map",
+    "index.html": "/bookSearcherReact/index.html",
+    "precache-manifest.8d5de4f6b4791db446c43d5a4b5846e3.js": "/bookSearcherReact/precache-manifest.8d5de4f6b4791db446c43d5a4b5846e3.js",
+    "service-worker.js": "/bookSearcherReact/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/bookSearcherReact/static/css/2.de424728.chunk.css.map",
+    "static/css/main.72abcb38.chunk.css.map": "/bookSearcherReact/static/css/main.72abcb38.chunk.css.map",
+    "static/js/2.586c7a91.chunk.js.LICENSE.txt": "/bookSearcherReact/static/js/2.586c7a91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69595aaa.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.586c7a91.chunk.js",
+    "static/css/main.72abcb38.chunk.css",
+    "static/js/main.b2cad7b6.chunk.js"
+  ]
+}
