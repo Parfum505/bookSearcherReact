@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42ea95fb12d48dd74fee2929dcf1eac1",
+    "revision": "883b84438a55a1023d3b7010639429d2",
     "url": "/bookSearcherReact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bookSearcherReact/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "779a5f69cade135d88cf",
+    "revision": "1c5e9d69aa24f8a4f8b2",
     "url": "/bookSearcherReact/static/css/main.72abcb38.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bookSearcherReact/static/js/2.586c7a91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "779a5f69cade135d88cf",
-    "url": "/bookSearcherReact/static/js/main.b2cad7b6.chunk.js"
+    "revision": "1c5e9d69aa24f8a4f8b2",
+    "url": "/bookSearcherReact/static/js/main.78260b06.chunk.js"
   },
   {
     "revision": "7419ce5911b8b83f5a57",
